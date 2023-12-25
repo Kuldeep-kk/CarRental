@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img src="https://res.cloudinary.com/dzxorfube/image/upload/v1703487683/Untitled-1_jjnz5l.png" alt="Car Rental System Logo" width="200" />
+</p>
 
-## Getting Started
+<h1 align="center">Car Rental System - Frontend</h1>
 
-First, run the development server:
+<p align="center">
+  Welcome to the Car Rental System, a visually stunning and dynamic frontend built with Next.js and animated with Framer Motion. This project provides an immersive user experience for both customers and administrators.
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-green" alt="Project Status: Active">
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Features
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Intuitive Design:** A modern and visually appealing design crafted with Framer Motion animations for a delightful user experience.
+  
+- **Responsive Layout:** Seamlessly adapts to various devices and screen sizes, ensuring users have an exceptional experience on any device.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Dynamic Vehicle Catalog:** Explore a visually rich catalog of available vehicles with smooth animations and dynamic transitions powered by Framer Motion.
 
-## Learn More
+- **Effortless Reservation Process:** A streamlined reservation system that guides users through a visually engaging and intuitive booking experience.
 
-To learn more about Next.js, take a look at the following resources:
+- **Interactive Admin Dashboard:** Empowering administrators with an interactive dashboard featuring real-time updates and smooth transitions.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Visually Pleasing Billing and Invoicing:** Automated billing and invoicing presented with visually stunning components and animations.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **User Engagement with Reviews and Ratings:** Encourage user participation with a visually appealing system for leaving reviews and ratings.
 
-## Deploy on Vercel
+- **Advanced Search and Filter:** Provide users with advanced search and filter options, enhanced by smooth animations and transitions.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 💻 Technologies Used
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **Next.js:** The React framework for building dynamic and server-rendered web applications.
+  
+- **Framer Motion:** A motion library for React that brings smooth animations and delightful transitions to your UI.
+
+- **HTML, CSS, JavaScript:** The foundation for creating an interactive and visually pleasing frontend.
+
