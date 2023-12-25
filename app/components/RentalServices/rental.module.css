@@ -1,0 +1,5 @@
+.searchButton{
+    background-image: radial-gradient(circle, #7aadc9, #6fa4c1, #649ab9, #5991b2, #4e88aa);
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(128, 128, 128, 0.53);
+}

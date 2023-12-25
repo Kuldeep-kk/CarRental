@@ -1,0 +1,38 @@
+{
+  "peoples": [
+    {
+      "id": 1,
+      "imageSrc": "https://res.cloudinary.com/dzxorfube/image/upload/v1703354649/pic1_hjk8j5.png",
+      "name": "Kuldeep Kushwaha",
+      "stars": 4,
+      "desc": "Effortless booking, punctual drivers, and a smooth ride every time. This cab service knows how to exceed expectations!"
+
+    },
+    {
+      "id": 2,
+      "imageSrc": "https://res.cloudinary.com/dzxorfube/image/upload/v1703354650/pic3_gf2tcp.png",
+      "name": "Sumita Singh",
+      "stars": 5,
+      "desc": "I rely on this cab booking website for all my travel needs. Prompt service, clean cars, and friendly drivers. Highly recommended!"
+
+    },
+    {
+      "id": 3,
+      "imageSrc": "https://res.cloudinary.com/dzxorfube/image/upload/v1703354649/pic2_eznfww.png",
+      "name": "Ankit Kumar",
+      "stars": 5,
+      "desc": "Effortless booking, punctual drivers, and a smooth ride every time. This cab service knows how to exceed expectations!"
+
+    },
+    {
+      "id": 1,
+      "imageSrc": "https://res.cloudinary.com/dzxorfube/image/upload/v1703354663/pic4_icngx7.png",
+      "name": "Ankita Dhave",
+      "stars": 4,
+      "desc": "Impressed with the professionalism and reliability of this cab service. They make sure I reach my destination on time, every time."
+
+    }
+
+
+  ]
+}

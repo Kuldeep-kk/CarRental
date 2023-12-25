@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&display=swap');
+
+.mainBox{
+    font-family: 'Poppins', sans-serif;
+    background-image: radial-gradient(circle, #7aadc9, #6fa4c1, #649ab9, #5991b2, #4e88aa);
+
+}

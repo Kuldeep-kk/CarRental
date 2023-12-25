@@ -1,0 +1,60 @@
+{
+  "redringCards": [
+    {
+      "id": 1,
+      "imageSrc": "https://res.cloudinary.com/dzxorfube/image/upload/v1703347664/swift_rstwd7.png",
+      "title": "Maruti Swift",
+      "airConditioner": true,
+      "gear": "Manual",
+      "seater": 5,
+      "price": "1000"
+    },
+    {
+      "id": 2,
+      "imageSrc": "https://res.cloudinary.com/dzxorfube/image/upload/v1703347664/boleno_bm9s7q.png",
+      "title": "Maruti Baleno",
+      "airConditioner": true,
+      "gear": "Manual",
+      "seater": 5,
+      "price": "1000"
+    },
+    {
+      "id": 3,
+      "imageSrc": "https://res.cloudinary.com/dzxorfube/image/upload/v1703347664/innova_oe82bd.png",
+      "title": "Toyota Innova",
+      "airConditioner": true,
+      "gear": "Automatic",
+      "seater": 7,
+      "price": "1500"
+    },
+    {
+      "id": 4,
+      "imageSrc": "https://res.cloudinary.com/dzxorfube/image/upload/v1703347665/wagnor_khm0tu.png",
+      "title": "Maruti Wagnor",
+      "airConditioner": true,
+      "gear": "Automatic",
+      "seater": 4,
+      "price": "900"
+    },
+    {
+      "id": 5,
+      "imageSrc": "https://res.cloudinary.com/dzxorfube/image/upload/v1703347664/nexon_maceiy.png",
+      "title": "Tata Nexon",
+      "airConditioner": true,
+      "gear": "Automatic",
+      "seater": 5,
+      "price": "1000"
+    },
+    {
+      "id": 6,
+      "imageSrc": "https://res.cloudinary.com/dzxorfube/image/upload/v1703347664/amaze_cvgyek.png",
+      "title": "Honda Amaze",
+      "airConditioner": true,
+      "gear": "Manual",
+      "seater": 5,
+      "price": "900"
+    }
+
+
+  ]
+}

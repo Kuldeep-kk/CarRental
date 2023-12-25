@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&display=swap');
+.heroMain{
+    background-image: linear-gradient(to top, #cfcfcf, #dbdbdb, #e7e7e7, #f3f3f3, #ffffff);
+}
+.heroHeader{
+    word-spacing: 5px;
+    text-shadow: 2px 2px 5px rgba(128, 128, 128, 0.52);
+    font-family: 'Poppins', sans-serif;
+}
+.heroHeader span{
+    color: #5195b2;
+    text-shadow: 5px 5px 8px rgba(114, 109, 109, 0.52);
+
+}
+
+
+.postText{
+word-spacing: 2px;
+}

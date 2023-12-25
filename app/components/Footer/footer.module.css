@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&display=swap');
+
+
+.footerMain{
+    font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(to bottom, #cfcfcf, #d4d4d4, #d8d8d8, #dddddd, #e2e2e2);
+}
